@@ -39,8 +39,20 @@
 					<p>Ven y descubre todo lo que tenemos en Cibercafe Esquivel.
                     Un cibercafé, ciber café, café internet o solo ciber, es un local público donde se ofrece a los clientes acceso a internet y, aunque no en todos, también servicios de cafetería, bar o restaurante.
                     </p>
+                    <br/>
+                    <p>Para ello, el local dispone de computadoras y usualmente cobra una tarifa fija por un período determinado para el uso de dichos equipos, incluido el acceso a Internet y a diversos programas, tales como procesadores de texto, programas de edición gráfica, copia de CD o DVD, etc.
+                    </p>
+                    <br/>
+                    <p>También hay algunos cibercafés que no necesariamente venden alguno de esos productos de cafetería. Los cibercafés han contribuido de forma considerable a la masificación de Internet, especialmente en comunidades de bajo poder adquisitivo. Fueron muy populares a fines de los años noventa y a lo largo de la década de los 2000.
+                    <p/>
 				</article>
 			</div>
+
+            <form action="welcome.php" method="post">
+               Name: <input type="text" name="name"><br>
+               E-mail: <input type="text" name="email"><br>
+               <input type="submit">
+            </form>
 
 			<aside>
 				<div class="widget">
