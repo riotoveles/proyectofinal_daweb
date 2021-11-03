@@ -44,14 +44,17 @@
                     </p>
                     <br/>
                     <p>También hay algunos cibercafés que no necesariamente venden alguno de esos productos de cafetería. Los cibercafés han contribuido de forma considerable a la masificación de Internet, especialmente en comunidades de bajo poder adquisitivo. Fueron muy populares a fines de los años noventa y a lo largo de la década de los 2000.
-                    <p/>
+                    </p>
 				</article>
 			</div>
+            
+            
 
             <form action="welcome.php" method="post">
-               Name: <input type="text" name="name"><br>
-               E-mail: <input type="text" name="email"><br>
-               <input type="submit">
+                <p> RENTA NUESTRAS COMPUTADORAS EN LINEA </p>
+                Name: <input type="text" name="name"><br>
+                E-mail: <input type="text" name="email"><br>
+                <input type="submit">
             </form>
 
 			<aside>
