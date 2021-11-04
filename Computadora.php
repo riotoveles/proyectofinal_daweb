@@ -49,8 +49,8 @@
 			</div>
 
             <form action="welcome.php" method="post">
-                <p> CHECA NUESTRO CATALOGO DE COMPUTADORAS </p>
-                Name: <input type="text" name="name"><br>
+                <p> INGRESA PARA CHECAR NUESTRO CATALOGO DE COMPUTADORAS </p>
+                Nombre: <input type="text" name="name"><br>
                 E-mail: <input type="text" name="email"><br>
                 <input type="submit">
             </form>
