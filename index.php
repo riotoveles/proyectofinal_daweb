@@ -15,7 +15,6 @@
 			<nav>
 				<ul>
 					<li><a href="index.php">Inicio</a></li>
-					<li><a href="empleado.html">Empleado</a></li>
 					<li><a href="Computadora.php">Computadora</a></li>
 					<li><a href="Rentas.php">Rentas</a></li>
 				</ul>
@@ -52,10 +51,9 @@
 				<div class="widget">
 					<h3>Listado Tablas en Cibercafe Esquivel</h3>
 					<ul>
-						<li><a href="empleado.html">Tabla 1 Empleado</a></li>
-						<li><a href="Computadora.php">Tabla 2 Computadora</a></li>
-						<li><a href="Rentas.php">Tabla 3 Renta</a></li>
-						<li><a href="mapa.html">Tabla 4 Ubicacion</a></li>
+						<li><a href="Computadora.php">Tabla 1 Computadora</a></li>
+						<li><a href="Rentas.php">Tabla 2 Renta</a></li>
+						<li><a href="mapa.html">Tabla 3 Ubicacion</a></li>
 					</ul>
 				</div>
 			</aside>
